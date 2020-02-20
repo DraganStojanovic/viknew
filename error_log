@@ -1,0 +1,81 @@
+[26-Jul-2017 22:57:41 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnik() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 22:58:35 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnik() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 22:58:37 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnik() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 22:58:40 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnik() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 22:58:42 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnik() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 23:01:26 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnik() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 23:04:38 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnik() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 23:04:39 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnik() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 23:04:40 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnik() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 23:04:41 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnik() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 23:04:41 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnik() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 23:04:41 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnik() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 23:04:42 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnik() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 23:04:51 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnik() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 23:07:46 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnik() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 23:09:14 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnik() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 23:17:49 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnik() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 23:19:35 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnike() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 23:19:36 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnike() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[26-Jul-2017 23:20:37 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiCenovnike() in /home/draganst/vodovod.draganstojanovic.in.rs/application/controllers/Cenovnik.php on line 13
+[09-Oct-2017 18:06:23 Europe/Zagreb] PHP Parse error:  syntax error, unexpected '_blank' (T_STRING) in /home/draganst/vodovod.draganstojanovic.in.rs/application/views/nabavke.php on line 37
+[09-Oct-2017 18:07:44 Europe/Zagreb] PHP Parse error:  syntax error, unexpected '=' in /home/draganst/vodovod.draganstojanovic.in.rs/application/views/nabavke.php on line 37
+[09-Oct-2017 18:07:46 Europe/Zagreb] PHP Parse error:  syntax error, unexpected '=' in /home/draganst/vodovod.draganstojanovic.in.rs/application/views/nabavke.php on line 37
+[09-Oct-2017 18:07:49 Europe/Zagreb] PHP Parse error:  syntax error, unexpected '=' in /home/draganst/vodovod.draganstojanovic.in.rs/application/views/nabavke.php on line 37
+[09-Oct-2017 18:08:28 Europe/Zagreb] PHP Parse error:  syntax error, unexpected '=' in /home/draganst/vodovod.draganstojanovic.in.rs/application/views/nabavke.php on line 37
+[09-Oct-2017 18:08:30 Europe/Zagreb] PHP Parse error:  syntax error, unexpected '=' in /home/draganst/vodovod.draganstojanovic.in.rs/application/views/nabavke.php on line 37
+[09-Oct-2017 18:11:29 Europe/Zagreb] PHP Parse error:  syntax error, unexpected 'target' (T_STRING) in /home/draganst/vodovod.draganstojanovic.in.rs/application/views/nabavke.php on line 37
+[09-Oct-2017 18:11:31 Europe/Zagreb] PHP Parse error:  syntax error, unexpected 'target' (T_STRING) in /home/draganst/vodovod.draganstojanovic.in.rs/application/views/nabavke.php on line 37
+[09-Oct-2017 18:16:05 Europe/Zagreb] PHP Parse error:  syntax error, unexpected '_blank' (T_STRING) in /home/draganst/vodovod.draganstojanovic.in.rs/application/views/nabavke.php on line 37
+[20-Nov-2017 09:48:14 Europe/Zagreb] PHP Parse error:  syntax error, unexpected '<' in /home/vikobren/public_html/application/views/cenovnik.php on line 26
+[29-Dec-2017 10:40:43 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[29-Dec-2017 10:42:04 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[29-Dec-2017 10:42:06 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[29-Dec-2017 10:42:07 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[29-Dec-2017 10:42:08 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[29-Dec-2017 10:42:27 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[29-Dec-2017 10:44:05 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[29-Dec-2017 10:44:06 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[29-Dec-2017 10:45:10 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[29-Dec-2017 10:45:11 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[29-Dec-2017 10:45:12 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[29-Dec-2017 10:45:15 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[26-Jul-2018 14:25:13 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[26-Jul-2018 14:26:10 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[28-Jul-2018 00:11:04 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[28-Jul-2018 22:51:00 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[30-Jul-2018 10:49:40 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[30-Jul-2018 10:49:45 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[30-Jul-2018 10:50:03 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[31-Jul-2018 12:06:09 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[31-Jul-2018 16:33:00 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[31-Jul-2018 16:33:27 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedevet() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 22
+[31-Jul-2018 16:38:03 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedeset() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 23
+[31-Jul-2018 16:38:04 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajedeset() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 23
+[28-Dec-2018 15:25:16 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajetrinest() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 26
+[06-Feb-2019 09:43:56 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajepetnest() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 27
+[06-Feb-2019 09:44:11 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajepetnest() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 27
+[06-Feb-2019 09:44:20 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajepetnest() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 27
+[06-Feb-2019 09:44:33 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajepetnest() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 27
+[06-Feb-2019 09:46:54 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajepetnest() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 27
+[06-Feb-2019 09:46:56 Europe/Zagreb] PHP Fatal error:  Call to undefined method Report::dohvatiObicneIzvestajepetnest() in /home/vikobren/public_html/application/controllers/Izvestaji.php on line 27
+[29-Mar-2019 16:38:31 Europe/Zagreb] PHP Parse error:  syntax error, unexpected '<' in /home/vikobren/public_html/application/views/menu.php on line 229
+[25-Apr-2019 14:14:27 Europe/Zagreb] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/vikobren/public_html/application/config/config.php on line 28
+[25-Apr-2019 14:14:27 Europe/Zagreb] PHP Fatal error:  Cannot redeclare __autoload() (previously declared in /home/vikobren/public_html/application/config/config.php:28) in /home/vikobren/public_html/application/config/config.php on line 38
+[12-Dec-2019 12:28:45 Europe/Zagreb] PHP Fatal error:  Call to a member function get_post() on null in /home/vikobren/public_html/application/controllers/Home.php on line 19
+[12-Dec-2019 12:30:23 Europe/Zagreb] PHP Fatal error:  Call to a member function get_post() on null in /home/vikobren/public_html/application/controllers/Post.php on line 25
+[12-Dec-2019 12:30:26 Europe/Zagreb] PHP Fatal error:  Call to a member function get_post_by_id() on null in /home/vikobren/public_html/application/controllers/Post.php on line 78
+[12-Dec-2019 12:32:06 Europe/Zagreb] PHP Fatal error:  Call to a member function get_post() on null in /home/vikobren/public_html/application/controllers/Post.php on line 25
+[12-Dec-2019 12:33:10 Europe/Zagreb] PHP Fatal error:  Call to a member function set_post() on null in /home/vikobren/public_html/application/controllers/Post.php on line 92
+[12-Dec-2019 12:33:56 Europe/Zagreb] PHP Fatal error:  Call to a member function set_post() on null in /home/vikobren/public_html/application/controllers/Post.php on line 92
+[14-Dec-2019 20:17:27 Europe/Zagreb] PHP Fatal error:  Call to a member function initialize() on null in /home/vikobren/public_html/application/controllers/Posts.php on line 19
+[14-Dec-2019 20:21:13 Europe/Zagreb] PHP Fatal error:  Call to a member function check_username_exists() on null in /home/vikobren/public_html/application/controllers/Users.php on line 99
+[14-Dec-2019 20:21:45 Europe/Zagreb] PHP Fatal error:  Call to a member function check_username_exists() on null in /home/vikobren/public_html/application/controllers/Users.php on line 99
+[15-Dec-2019 14:54:58 Europe/Zagreb] PHP Fatal error:  Call to a member function get_posts() on null in /home/vikobren/public_html/application/controllers/Posts.php on line 16
+[15-Dec-2019 14:57:00 Europe/Zagreb] PHP Fatal error:  Call to a member function get_posts() on null in /home/vikobren/public_html/application/controllers/Posts.php on line 16
+[15-Dec-2019 15:29:30 Europe/Zagreb] PHP Parse error:  syntax error, unexpected '','' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/vikobren/public_html/application/config/autoload.php on line 135
+[15-Dec-2019 15:29:51 Europe/Zagreb] PHP Parse error:  syntax error, unexpected '','' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/vikobren/public_html/application/config/autoload.php on line 135
+[15-Dec-2019 18:20:45 Europe/Zagreb] PHP Fatal error:  Cannot redeclare Posts::view() in /home/vikobren/public_html/application/controllers/Posts.php on line 49
+[15-Dec-2019 18:22:02 Europe/Zagreb] PHP Fatal error:  Call to undefined method Posts::load_views() in /home/vikobren/public_html/application/controllers/Posts.php on line 46
+[15-Dec-2019 18:24:12 Europe/Zagreb] PHP Parse error:  syntax error, unexpected '?' in /home/vikobren/public_html/application/controllers/Posts.php on line 1
+[15-Dec-2019 19:11:25 Europe/Zagreb] PHP Parse error:  syntax error, unexpected ')' in /home/vikobren/public_html/application/models/Posts_model.php on line 13
