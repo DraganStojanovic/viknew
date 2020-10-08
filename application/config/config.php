@@ -23,9 +23,21 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
- $config['base_url'] = 'https://www.vikobrenovac.com/';
 
- function __autoload($classname)
+//  $config['base_url'] = 'https://www.vikobrenovac.com/';
+
+//  function __autoload($classname)
+// {
+//     if(strpos($classname,'CI_') == 0)
+//     {
+//         $file = APPPATH.'core/'.$classname.'.php';
+//         if(file_exists($file))
+//         {
+//             @include_once($file);
+//         }
+//     }
+// }
+ function myAutoloader($classname)
 {
     if(strpos($classname,'CI_') == 0)
     {
@@ -36,6 +48,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         }
     }
 }
+spl_autoload_register('myAutoloader');
+
 /*
 |--------------------------------------------------------------------------
 | Index File
