@@ -24,19 +24,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 
-//  $config['base_url'] = 'https://www.vikobrenovac.com/';
-
-//  function __autoload($classname)
-// {
-//     if(strpos($classname,'CI_') == 0)
-//     {
-//         $file = APPPATH.'core/'.$classname.'.php';
-//         if(file_exists($file))
-//         {
-//             @include_once($file);
-//         }
-//     }
-// }
  function myAutoloader($classname)
 {
     if(strpos($classname,'CI_') == 0)
